@@ -67,4 +67,3 @@ https://documenter.getpostman.com/view/27533695/2sB3dLUBsL
 
 **Notes**
 - The project uses ES modules; `package.json` includes `"type": "module"`.
-- If you want me to open the Postman collection or add example requests to this README, tell me which format you prefer.
